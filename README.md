@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @DrewBurryMooore
-- 👀 I’m interested in ...Webdev/ IOS App Development 
-- 🌱 I’m currently learning ... Swift Programming
-- 💞️ I’m looking to collaborate on ... Future projects, just of some Apps that serve for Productivity and Task Management 
-- ⚡ Fun fact: ... Coffee Addicted 
+Webdev/ IOS App Development 
+Swift Programming
+Apps that serve for Productivity and Task Management 
+Coffee Addicted 
 
 <!---
 DrewBurryMooore/DrewBurryMooore is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
